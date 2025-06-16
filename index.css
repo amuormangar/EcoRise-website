@@ -1,0 +1,223 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Poppins';
+    font-size: 1rem;
+    
+}
+
+.header {
+    display: flex;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 4vw;
+    right: -60%;
+    #home{
+        color:white ;
+        background-color: rgb(255, 94, 0);
+    }
+
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.ecoRise-logo {
+    margin-top: -3%;
+
+}
+
+.ecoRise-logo img {
+    width: 1.2vw;
+    height: 10h;
+}
+
+.fa-linkedin {
+    position: absolute;
+    left: 87%;
+    top: 5%;
+
+}
+
+.fa-facebook {
+    position: absolute;
+    left: 90%;
+    top: 5%;
+
+}
+
+.fa-square-instagram {
+    position: absolute;
+    left: 93%;
+    top: 5%;
+}
+
+.landing-page {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://i.pinimg.com/736x/f3/a2/cd/f3a2cd88dc0a28cc85edeed65884f38d.jpg);
+    height: 68vh;
+    width: 100%;
+    margin-top: -3%;
+    justify-content: center;
+    color: white;
+}
+
+#recycle-clothes {
+    text-align: center;
+    padding-top: 10%;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.text {
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+.button {
+    background-color: #942222;
+    color: #ffffff;
+    font-size: 1.5rem;
+    position: absolute;
+    width: 20vw;
+    height: 4vh;
+    border-radius: 9px;
+    top: 70%;
+    left: 35%;
+}
+
+.video {
+    display: flex;
+    position: absolute;
+    color: #942222;
+    padding-left: 40px;
+    gap: 20px;
+    font-size: larger;
+    top: 85%;
+}
+
+.fa-video {
+    margin-top: 30px;
+}
+
+#about {
+    color: white;
+    margin-top: 5%;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    
+}
+
+#rec-1 {
+    background-color: rgb(255, 94, 0);
+    width: 10%;
+    height: 15vh;
+    border-radius: 10%;
+    text-align: center;
+    box-shadow: 10px 10px 5px rgb(231, 150, 74);
+    font-size: 1.5rem;
+
+
+
+}
+
+#rec-2 {
+    background-color: rgb(255, 94, 0);
+    width: 10%;
+    height: 15vh;
+    border-radius: 10%;
+    text-align: center;
+    font-size: 1.5rem;
+    box-shadow: 10px 10px 5px rgb(231, 150, 74);
+
+
+
+}
+
+#rec-3 {
+    background-color: rgb(255, 94, 0);
+    width: 10%;
+    height: 15vh;
+    border-radius: 10%;
+    text-align: center;
+    font-size: 1.5rem;
+    box-shadow: 10px 10px 5px rgb(231, 150, 74);
+
+
+
+}
+
+#main-container{
+    align-items: center;
+    margin-top: -7%;
+}
+
+
+.heading{
+    text-align: center;
+    color: rgb(211, 77, 0);
+   
+}
+#p{
+   
+    margin-right: 2cm;
+}
+.our-services{
+    display:flex;
+    gap: 8%;
+    justify-content: center;
+}
+#first-phone{
+    width: 10cm;
+    height: 12cm;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(231, 150, 74);
+}
+
+.first-text{
+    width: 9cm;
+    margin-top: 0.5rem;
+
+}
+.second-text{
+    margin-right: 2cm;
+    width: 9cm;
+}
+#second-phone{
+   width: 10cm;
+    height: 12cm;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(231, 150, 74);
+    
+   
+}
+    
+
+#images-s{
+     width: 10cm;
+    height: 12cm;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(231, 150, 74);
+
+   
+}
+.message{
+    
+    margin-right: 2cm;
+    width: 9cm;
+
+}
