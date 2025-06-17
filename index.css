@@ -1,6 +1,9 @@
  feature/home 
 body{
  overflow-x : hidden;
+    font-family: 'Poppins';
+    font-size: 1rem;
+     scroll-behavior: smooth;
 }
 .header-image{
     height: 50vh;
@@ -342,13 +345,6 @@ a{
 
 }
 
-
-body {
-    font-family: 'Poppins';
-    font-size: 1rem;
-     scroll-behavior: smooth;
-
-}
 
 .header {
     display: flex;
