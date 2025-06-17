@@ -394,6 +394,7 @@ a {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://i.pinimg.com/736x/f3/a2/cd/f3a2cd88dc0a28cc85edeed65884f38d.jpg);
     height: 68vh;
     width: 80vw;
+   background-repeat:none;
     margin-top: -3%;
     justify-content: center;
     color: white;
