@@ -1,4 +1,7 @@
  feature/home 
+body{
+ overflow-x : hidden;
+}
 .header-image{
     height: 50vh;
     width: 50vw;
