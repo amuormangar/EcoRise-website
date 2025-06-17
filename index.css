@@ -263,20 +263,11 @@ a{
         color: white;
     }
 }
-.trevor{
-    p{
-        font-size: 16px;
-    }
-}
-.voice {
-    p{
-        font-size: 16px;
-    }
-}
+
 @media only screen and (max-width: 768px){
   
    .header-image{
-    width: 90vw;
+    width: 80vw;
     height: 50vw;
     right: 100px;
     position: relative;
@@ -402,7 +393,7 @@ a {
 .landing-page {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://i.pinimg.com/736x/f3/a2/cd/f3a2cd88dc0a28cc85edeed65884f38d.jpg);
     height: 68vh;
-    width: 100%;
+    width: 80vw;
     margin-top: -3%;
     justify-content: center;
     color: white;
